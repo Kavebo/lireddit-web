@@ -23,7 +23,7 @@ export const NavBar: React.FC<NavBarProps> = ({}) => {
         <NextLink href="/login">
           <Link mr={4}>Login</Link>
         </NextLink>
-        <NextLink href="/login">
+        <NextLink href="/register">
           <Link mr={4}>Register</Link>
         </NextLink>{" "}
       </>
